@@ -8,3 +8,5 @@ Click on a cell to change its state.
 Add seed methods in Seeds.java for new patterns.
 
 Run with **javac Main.java && java Main**
+
+![alt tag](https://raw.github.com/paoloboschini/gameoflife/master/screen.png)
